@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba664fab-fac1-4a39-9967-967338789f49" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex008.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex009.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex010.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex011.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex012.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex016.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex017.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex018.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex019.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex020.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex021.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex021.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 9/ex022.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 9/ex023(str).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 9/ex023.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 9/ex024.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 9/ex025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 9/ex026.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 9/ex027.py" beforeDir="false" />
-    </list>
+    <list default="true" id="ba664fab-fac1-4a39-9967-967338789f49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
