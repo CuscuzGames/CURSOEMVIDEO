@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba664fab-fac1-4a39-9967-967338789f49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex008.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex010.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 7 (operadores)/ex013.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex016.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex017.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex020.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex021.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 8 (modulos)/ex021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 9/ex022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 9/ex023(str).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 9/ex023.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 9/ex024.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 9/ex025.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 9/ex026.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula 9/ex027.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="87" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ex017.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: true
+}</component>
+  <component name="ProjectId" id="3C8sa3RYD1dFVcl6Ro4RTuNgtX5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.023.executor": "Run",
+    "Python.Inicio.executor": "Run",
+    "Python.aula07.executor": "Run",
+    "Python.aula08.executor": "Run",
+    "Python.ex 78.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex019.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023(str).executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
+    "Python.ex038.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex045.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex051.executor": "Run",
+    "Python.ex052.executor": "Run",
+    "Python.ex053.executor": "Run",
+    "Python.ex054.executor": "Run",
+    "Python.ex055.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex059.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex063.executor": "Run",
+    "Python.ex064.executor": "Run",
+    "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex068.executor": "Run",
+    "Python.ex069.executor": "Run",
+    "Python.ex070.executor": "Run",
+    "Python.ex071.executor": "Run",
+    "Python.ex072.executor": "Run",
+    "Python.ex073.executor": "Run",
+    "Python.ex074.executor": "Run",
+    "Python.ex075.executor": "Run",
+    "Python.ex076.executor": "Run",
+    "Python.ex077.executor": "Run",
+    "Python.ex078.executor": "Run",
+    "Python.ex079.executor": "Run",
+    "Python.ex080.executor": "Run",
+    "Python.ex081.executor": "Run",
+    "Python.ex082.executor": "Run",
+    "Python.ex083.executor": "Run",
+    "Python.yesye.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Formatmicro/PycharmProjects/CURSOEMVIDEO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Formatmicro\PycharmProjects\CURSOEMVIDEO" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Formatmicro\PycharmProjects\CURSOEMVIDEO\aula 9" />
+      <recent name="C:\Users\Formatmicro\PycharmProjects\CURSOEMVIDEO\aula 7 (operadores)" />
+      <recent name="C:\Users\Formatmicro\PycharmProjects\CURSOEMVIDEO\aula 8 (modulos)" />
+      <recent name="C:\Users\Formatmicro\PycharmProjects\CURSOEMVIDEO\aula 10 (condicoes)" />
+      <recent name="C:\Users\Formatmicro\PycharmProjects\CURSOEMVIDEO\aula 12 (aninhamento)" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba664fab-fac1-4a39-9967-967338789f49" name="Changes" comment="" />
+      <created>1775778592271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775778592271</updated>
+      <workItem from="1775778593214" duration="4189000" />
+      <workItem from="1775828978091" duration="9399000" />
+      <workItem from="1776290301809" duration="3812000" />
+      <workItem from="1776465527559" duration="7461000" />
+      <workItem from="1776895706223" duration="6296000" />
+      <workItem from="1776990118022" duration="4994000" />
+      <workItem from="1777228364031" duration="630000" />
+      <workItem from="1777231261207" duration="1529000" />
+      <workItem from="1777243728868" duration="8414000" />
+      <workItem from="1777415078135" duration="410000" />
+      <workItem from="1777484588247" duration="8162000" />
+      <workItem from="1777508459326" duration="716000" />
+      <workItem from="1777593659415" duration="2704000" />
+      <workItem from="1777679076559" duration="4560000" />
+      <workItem from="1777763108054" duration="5997000" />
+      <workItem from="1777817849168" duration="150000" />
+      <workItem from="1777827609500" duration="3580000" />
+      <workItem from="1778014195021" duration="2604000" />
+      <workItem from="1778021432999" duration="2570000" />
+      <workItem from="1778275000662" duration="3785000" />
+      <workItem from="1778278834266" duration="1964000" />
+      <workItem from="1778282713559" duration="1887000" />
+      <workItem from="1778540584167" duration="19000" />
+      <workItem from="1780146739682" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex009.coverage" NAME="ex009 Coverage Results" MODIFIED="1775839924906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex038.coverage" NAME="ex038 Coverage Results" MODIFIED="1778276237161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex032.coverage" NAME="ex032 Coverage Results" MODIFIED="1778276408828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex035.coverage" NAME="ex035 Coverage Results" MODIFIED="1777827834780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex041.coverage" NAME="ex041 Coverage Results" MODIFIED="1778284194443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex026.coverage" NAME="ex026 Coverage Results" MODIFIED="1777485780302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$023.coverage" NAME="023 Coverage Results" MODIFIED="1777249360257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$aula07.coverage" NAME="aula07 Coverage Results" MODIFIED="1775836549795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex021.coverage" NAME="ex021 Coverage Results" MODIFIED="1778014238077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex012.coverage" NAME="ex012 Coverage Results" MODIFIED="1775842513118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1777829151149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1775841807821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex017.coverage" NAME="ex017 Coverage Results" MODIFIED="1776993271399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$aula08.coverage" NAME="aula08 Coverage Results" MODIFIED="1776466499611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$Inicio.coverage" NAME="Inicio Coverage Results" MODIFIED="1778018082350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex023.coverage" NAME="ex023 Coverage Results" MODIFIED="1777831128617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1775838151099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1778018512648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex022.coverage" NAME="ex022 Coverage Results" MODIFIED="1777487791136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$yesye.coverage" NAME="yesye Coverage Results" MODIFIED="1776469861597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex019.coverage" NAME="ex019 Coverage Results" MODIFIED="1777831191717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex013.coverage" NAME="ex013 Coverage Results" MODIFIED="1776290322661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex028.coverage" NAME="ex028 Coverage Results" MODIFIED="1778017181298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex031.coverage" NAME="ex031 Coverage Results" MODIFIED="1777828845208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex034.coverage" NAME="ex034 Coverage Results" MODIFIED="1777828357631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex007.coverage" NAME="ex007 Coverage Results" MODIFIED="1778278427541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex016.coverage" NAME="ex016 Coverage Results" MODIFIED="1776992457178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex025.coverage" NAME="ex025 Coverage Results" MODIFIED="1777830659563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex040.coverage" NAME="ex040 Coverage Results" MODIFIED="1778282749862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex033.coverage" NAME="ex033 Coverage Results" MODIFIED="1778275589390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex024.coverage" NAME="ex024 Coverage Results" MODIFIED="1777250835645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex030.coverage" NAME="ex030 Coverage Results" MODIFIED="1777828965841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex039.coverage" NAME="ex039 Coverage Results" MODIFIED="1778278264606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex018.coverage" NAME="ex018 Coverage Results" MODIFIED="1776994032892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex036.coverage" NAME="ex036 Coverage Results" MODIFIED="1778275116193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1776990556748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1775840987241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CURSOEMVIDEO$ex027.coverage" NAME="ex027 Coverage Results" MODIFIED="1777491807644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
